@@ -1,6 +1,8 @@
 # Add your own artifact PDFs here
 
-Export your finished and reviewed Word documents as PDF files. Use these exact filenames to match the starter website links:
+Complete and save each authentic artifact in Microsoft Word first. After instructor review and removal of sensitive information, use **File → Save As / Export → PDF** to make a browser-readable copy. Keep your editable Word original in your normal course workspace; upload the public-safe PDF to this folder through **Add file → Upload files**, then **Commit changes**.
+
+Use these exact filenames to match the starter website links:
 
 - workstation-validation.pdf
 - server-validation.pdf
