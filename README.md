@@ -2,6 +2,16 @@
 
 This is a **starter template**, not a completed student portfolio. Start with [**Use this template**](https://github.com/student-operated-technology-ecosystem/cit205-portfolio-template/generate) to copy `index.html`, `style.css`, and the `artifacts/` directory into the root of your own public repository.
 
+## Editing your portfolio without breaking the code
+
+Open `index.html` in your own repository and choose the pencil icon (on mobile, check the file's three-dot menu for **Edit file**). Use Find to search for `EDIT YOUR NAME`, `EDIT YOUR INTRODUCTION`, `EDIT THIS PROJECT`, `EDIT YOUR PROFESSIONAL REFLECTION`, and `EDIT YOUR GITHUB`.
+
+**Change the words between the tags, not the tags themselves.** For example, change `<h1>YOUR NAME</h1>` to `<h1>Jordan Student</h1>`. For a paragraph, keep `<p>` and `</p>` and replace only the sentence between them. Text between `<!--` and `-->` is an instructor note that does not appear on the website.
+
+Start with one small change: replace your name, select **Commit changes**, then open your published website to confirm the result. Repeat for the introduction and projects. A commit saves your revision to GitHub; Pages may take a few minutes to publish it.
+
+Each artifact's PDF link begins with `hidden`. Upload the matching reviewed, redacted PDF to `artifacts/` first. Then remove **only** `hidden` from that artifact's `<a hidden href="...">` link and commit. Do not remove the surrounding HTML tags. If something goes wrong, use GitHub's commit history to compare or restore earlier work.
+
 ## Student publishing checklist
 
 1. Follow the [ACE Portfolio Publication Mission](https://github.com/student-operated-technology-ecosystem/CIT-205-classroom/blob/main/assignments/ACE-portfolio-publication-mission.md).
