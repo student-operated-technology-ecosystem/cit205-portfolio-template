@@ -12,7 +12,7 @@ This is a **starter template**, not a completed student portfolio. Start with [*
 6. Wait several minutes for deployment, refresh **Settings → Pages**, and select **Visit site**. Open `https://YOUR-GITHUB-USERNAME.github.io/` in a private window and test all links. Commits to `main` automatically republish your site.
 7. Submit the live URL and repository URL (`https://github.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io`) to Blackboard.
 
-**Important:** The example HTML links point to PDF filenames that are not included in the starter. Those links will not work until you upload your actual artifacts. This is intentional: you must demonstrate your own work.
+**Important:** PDF links are hidden in the starter because the PDFs are not yet included. Upload your own artifacts first, then unhide only the matching links. Do not copy Alex Morgan's work or present placeholders as finished evidence.
 
 The [Alex Morgan example](https://github.com/student-operated-technology-ecosystem/CIT-205-classroom/tree/main/examples/exemplary-portfolio) is a fictional quality reference, not student work to copy.
 
