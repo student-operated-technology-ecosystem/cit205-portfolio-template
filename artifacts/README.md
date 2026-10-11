@@ -16,6 +16,6 @@ Use these exact filenames to match the starter website links:
 - github-evidence.pdf
 - resume.pdf
 
-**Do not submit placeholder files as finished evidence.** Until you upload the PDFs, the corresponding links on your website will return 404. You can temporarily remove or hide links to unfinished artifacts.
+**Do not submit placeholder files as finished evidence.** The starter website already hides PDF links until your evidence exists. Once you upload a matching PDF, edit `index.html` to remove the `hidden` attribute on that artifact's `<a>` link and commit the update. Leave unfinished links hidden; publishing a PDF alone does not add it to the page.
 
 Redact private information, credentials, internal addresses, and confidential records before publishing.
